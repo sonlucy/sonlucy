@@ -22,7 +22,7 @@
 	</div><br>
 
  <div align="center">
-		<h4>👐used at least one👐</h4>
+		<h4>👐Sub stack/used at least once👐</h4>
 		<p>
 		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
 		<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
