@@ -1,13 +1,15 @@
-<h1 align=center>
-	<p><img src="https://capsule-render.vercel.app/api?text=bogyoi&#39;s%Profile&amp;fontSize=30&amp;animation=twinkling&amp;fontColor=333399&amp;type=venom" alt="header"></p>
+<h1 align=center><!--color=4FAEDF&amp;-->
+	<p><img src="https://capsule-render.vercel.app/api?text=bogyoi&#39;s%Profile&amp;fontSize=30&amp;animation=twinkling&amp;fontColor=0B405C&amp;color=4FAEDF&amp;type=venom;" alt="header"></p>
 </h1>
 <br><br>
 <p align=center>
 	<div align="center">
 <!-- 		<a>Hi guys! I'm son bo-kyung, a Software Engineer. <br> -->
 			<!---->
-		<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=C:\Users>+Hi+guys!" alt="Typing SVG"></a></p>
-                <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I&#39;m+son+bo-kyung,+a+Software+Engineer." alt="Typing SVG"></a></p>
+		<!--<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=C:\Users>+Hi+guys!;color=ffffff" alt="Typing SVG"></a></p>-->
+		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=500&lines=C%3A%5CUsers%3E+Hi+guys!" alt="Typing SVG" /></a><br>
+                <!--<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I&#39;m+son+bo-kyung,+a+Software+Engineer." alt="Typing SVG"></a></p>-->
+		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=500&lines=I'm+son+bo-kyung%2C+a+Software+Engineer." alt="Typing SVG" /></a>
 		</a>
 	</div>
  
@@ -20,9 +22,9 @@
 
 <div align="center">
     <h3>➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <!--<h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>-->
     <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
     <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬇️ Tech Stack ⬇️&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
 <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
