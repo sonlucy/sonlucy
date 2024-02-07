@@ -19,14 +19,15 @@
 <br>
 
 <div align="center">
-    <h3>➰&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
     <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
     <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
     <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬇️ Tech Stack ⬇️&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
 <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
 
-<br><br><br><br>
+<br><br><br>
 	<div align="center">
 		<h4>👐Main stack👐</h4>
 		<p>
@@ -73,7 +74,7 @@
 
 
 </div>
-<br><br>
+<br><br><br><br>
 
 <div align="center">
     <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
