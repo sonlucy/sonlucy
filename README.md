@@ -1,19 +1,32 @@
 <h1 align=center>
 	<p><img src="https://capsule-render.vercel.app/api?text=bogyoi&#39;s%Profile&amp;fontSize=30&amp;animation=twinkling&amp;fontColor=333399&amp;type=venom" alt="header"></p>
 </h1>
-
+<br><br>
 <p align=center>
 	<div align="center">
-		<a>🍀안녕하세요 개발자 손보경입니다!🍀 <br>
-			👣프론트엔드 개발을 학습하고 있습니다.👣 
+<!-- 		<a>Hi guys! I'm son bo-kyung, a Software Engineer. <br> -->
+			<!---->
+		<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=C:\Users>+Hi+guys!" alt="Typing SVG"></a></p>
+                <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I&#39;m+son+bo-kyung,+a+Software+Engineer." alt="Typing SVG"></a></p>
 		</a>
 	</div>
  
 </p>
-<hr><br>
+
+<!--<hr><br>-->
+<br>
+<br>
+<br>
 
 <div align="center">
-	<h3 align="center">✨Tech Stack✨</h3><br><br>
+    <h3>➰&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬇️ Tech Stack ⬇️&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+<h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+
+<br><br><br><br>
 	<div align="center">
 		<h4>👐Main stack👐</h4>
 		<p>
@@ -49,26 +62,37 @@
 
 </div><br>
 
- <div aligin="center">
+ <div align="center">
 	<h4>:::Design Tools:::</h4>
 	<p><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
 	<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&amp;logo=Adobe%20Lightroom&amp;logoColor=white" alt="Adobe Lightroom">
 	<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=white" alt="Adobe Premiere Pro"></p>
 
  </div>
-</div>
-<br><br><hr><br>
 
+
+
+</div>
+<br><br>
+
+<div align="center">
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰&emsp;&emsp;&emsp;➰</h3>
+    <h3>➰</h3>
+
+</div>
+<br><br><br>
 
 <div align="center">
 	<h3 align="center">📫Reach me on</h3>
-	<a href="mailto:shson2280@gmail.com?subject=Hello%20bogyoi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-	<a href="https://aplight.tistory.com/">
+	💙 <a href="mailto:shson2280@gmail.com?subject=Hello%20bogyoi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
+	💙 <a href="https://aplight.tistory.com/">
 		<img 
-	      src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+	      src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=tistory&color=orange&link=https://alpox.kr"
 	      style="height : 30px; margin-left : 10px; margin-right : 10px;"/>
 	</a>
 </div>
-<br><br><hr>
+<br><br>
 
 
