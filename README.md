@@ -1,5 +1,5 @@
 <h1 align=center><!--color=4FAEDF&amp;-->
-	<p><img src="https://capsule-render.vercel.app/api?text=bogyoi&#39;s%Profile&amp;fontSize=30&amp;animation=twinkling&amp;fontColor=0B405C&amp;color=0C0C0C&amp;type=venom;" alt="header"></p>
+	<p><img src="https://capsule-render.vercel.app/api?text=bogyoi&#39;s%Profile&amp;fontSize=30&amp;animation=twinkling&amp;fontColor=0B405C&amp;color=E0F2FA&amp;type=venom;" alt="header"></p>
 </h1>
 <br><br>
 <p align=center>
