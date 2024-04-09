@@ -80,7 +80,6 @@
  </div>
 
 
-
 </div>
 <br><br><br><br>
 
@@ -90,6 +89,7 @@
     <h3>➰&emsp;&emsp;&emsp;➰</h3>
     <h3>➰</h3>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonlucy&amp;layout=compact&amp;langs_count=12&amp;bg_color=00005580&amp;text_color=ffffff&amp;title_color=fffff2" alt="Top Langs"></p>
 </div>
 <br><br><br>
 
@@ -103,5 +103,6 @@
 	</a>
 </div>
 <br><br>
+
 
 
