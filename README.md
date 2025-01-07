@@ -10,25 +10,16 @@
 		<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=500&lines=C%3A%5CUsers%3E+Hi+guys!" alt="Typing SVG" /></a><br>-->
                 <!--<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I&#39;m+son+bo-kyung,+a+Software+Engineer." alt="Typing SVG"></a></p>-->
 		<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=500&lines=I'm+son+bo-kyung%2C+a+Software+Engineer." alt="Typing SVG" /></a>-->
-		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&background=0C0C0C&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=90&lines=C%3A%5CUsers%3E+Hi+guys!+;I'm+son+bo-kyung%2C+a+Software+Engineer." alt="Typing SVG" /></a>
-		</a>
+<!-- 		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&background=0C0C0C&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=90&lines=C%3A%5CUsers%3E+Hi+guys!+;I'm+son+bo-kyung%2C+a+Software+Engineer." alt="Typing SVG" /></a>
+		</a> -->
 	</div>
  
 </p>
 
 <!--<hr><br>-->
-<br>
-<br>
-<br>
+
 
 <div align="center">
-    <h3>➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
-    <!--<h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>-->
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬇️ Tech Stack ⬇️&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
-<h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
 
 <br><br><br>
 	<div align="center">
@@ -84,10 +75,7 @@
 <br><br><br><br>
 
 <div align="center">
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➰</h3>
-    <h3>➰&emsp;&emsp;&emsp;➰</h3>
-    <h3>➰</h3>
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonlucy&amp;layout=compact&amp;langs_count=12&amp;bg_color=00005580&amp;text_color=ffffff&amp;title_color=fffff2" alt="Top Langs"></p>
 </div>
