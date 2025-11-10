@@ -80,6 +80,12 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonlucy&amp;layout=compact&amp;langs_count=12&amp;bg_color=00005580&amp;text_color=ffffff&amp;title_color=fffff2" alt="Top Langs"></p>
 </div>
 <br><br><br>
+<!-- private 프로젝트 포함 언어 분포
+<p>
+  <img src="https://github-readme-stats-sonlucy.vercel.app/api/top-langs/?username=sonlucy&count_private=true&layout=compact&langs_count=12&bg_color=00005580&text_color=ffffff&title_color=fffff2" alt="Top Langs">
+</p>
+-->
+
 
 <div align="center">
 	<h3 align="center">📫Reach me on</h3>
